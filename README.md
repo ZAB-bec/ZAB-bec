@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Tomi
 
-<!--
-**ZAB-bec/ZAB-bec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 Shipping features and roasting bugs since ancient times.  
+(Yes, before semicolons were cool.)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Engineer by day, bug hunter by night 👨‍💻  
+- Writes code that even future me struggles to understand 🧠  
+- Powered by caffeine, sarcasm, and occasional existential dread ☕  
+- Currently optimizing my code... by deleting it 🚀  
+- Writing code and dodging bugs like a ninja 📦  
+
+🧙‍♂️ Legend says Tomi once fixed a bug by staring at it until it gave up.
+
+---
+\* <span style="font-size: smaller;"><i>This profile was generated with a little help from an AI companion.</i></span>

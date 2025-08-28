@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Tommy
 
 🔥 Shipping features and roasting bugs since ancient times.  
-   (Yes, before semicolons were cool.)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Yes, before semicolons were cool.)
 
 ---
 
